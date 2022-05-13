@@ -1,16 +1,9 @@
-# hello_world
+# UIII_Act3_Mendez
 
-A new Flutter project.
+El docente invita a sus alumnos a escribir el código correspondiente en FlutLab OnLine para la siguiente Aplicación de acuerdo al diseño que se muestra enseguida. 
 
-## Getting Started
+## Resultado
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/99424911/168200752-5b960378-435e-42cb-8bb2-57a36262c8e8.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
